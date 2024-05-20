@@ -1,0 +1,93 @@
+body{
+    background-image: url(Cos27C3A820un20portale20web20e20che20differenza20c27C3A820con20un20sito.jpg);
+    background-size: cover;
+}
+header{
+    background-color:black;
+}
+#logo{
+    margin-left: 1%;
+
+}
+.navigation{
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: azure;
+    text-decoration: none;
+    border: 5px solid rgb(201, 131, 131);
+    padding: 10px;
+}
+.navigation a:hover{
+    background-color: chartreuse;
+    color:lightseagreen;
+}
+.side{
+    color: white;
+    margin: 100px;
+    width: 50%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+}
+.side h3{
+    margin-bottom: 15px;
+
+}
+.side li{
+    list-style: square;
+    padding: 2px;
+}
+.login{
+    border: 1px solid red;
+    float: right;
+    background-color: beige;
+    margin-top: 60px;
+    height: 18em;
+    margin-right: 20px;
+    padding: 30px;
+}
+#btn{
+    background-color: dodgerblue;
+    width: 100%;
+}
+.login h2{
+    text-align: center;
+}
+.login{
+  text-align: center;
+}
+.container{
+    margin-top: 450px;
+    margin-left: 60px;
+}
+.pbox{
+    border: 2px solid white;
+    float: left;
+    width: 23%;
+    margin-left: 5px;
+    background-color: white;
+    padding: 5px;
+    height: 15em;
+}
+.pbox h3{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.pbox p{
+    text-align: justify;
+}
+.pbox a{
+    color: red;
+    text-decoration: none;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color:white;
+    margin-top: 56%;
+    height: 1.5em;
+    
+}
